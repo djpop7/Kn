@@ -1,0 +1,26 @@
+{
+  "name": "discord-channel-manager-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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:x-oauth-basic@github.com/djpop7/Kn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djpop7/Kn/issues"
+  },
+  "homepage": "https://github.com/djpop7/Kn#readme",
+  "description": "Discord bot that deletes all channels and creates two new ones for chat and invites",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
